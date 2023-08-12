@@ -12,6 +12,6 @@
 - AdaBoost Regressor
 
 # Best Models
-- Random Forest Regressor	0.8862
+- Random Forest Regressor	0.887
 - Catboosting Regressor	0.8808
 
